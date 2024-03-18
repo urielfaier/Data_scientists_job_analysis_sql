@@ -1,10 +1,12 @@
-# Introduction
+# Data scientists Job market analysis in SQL 
+
+## Introduction
  Delve into the Data Scientist job market! This project zooms in on Data Scientist role, uncovering  top-paying opportunities, sought-after skills, and  where demand intersects with lucrative salaries in the realm of the Data Scientist role.
  
 
 Want to take a look at the SQL queries? Check them out here: [Queries](/Queries/)
 
-# Background
+## Background
 Driven by a quest to navigate the Data Scientist job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
 ### The questions I wanted to answer through my SQL queries were:
@@ -23,7 +25,7 @@ For my deep dive into the Data Scientist role job market, I harnessed the power 
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-# The Analysis
+## The Analysis
 Each query for this project aimed at investigating specific aspects of the Data Scientist role in the job market. Here’s how I approached each question:
 
 ### 1. Top Paying Data Scientist Jobs titles

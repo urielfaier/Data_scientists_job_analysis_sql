@@ -98,7 +98,7 @@ Here's the breakdown of the most demanded skills for Data Scientist in 2023, bas
 ![Top Paying Skills](pics/2_top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying Data Scientist job titles *
 
-### 3. In-Demand Skills for Data Analysts
+### 3. In-Demand Skills for Data Scientist
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 

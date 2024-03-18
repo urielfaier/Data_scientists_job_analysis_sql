@@ -1,4 +1,4 @@
-# Data scientists Job market analysis in SQL 
+# Data Scientists Job market Analysis in SQL 
 
 ## Introduction
  Delve into the Data Scientist job market! This project zooms in on Data Scientist role, uncovering  top-paying opportunities, sought-after skills, and  where demand intersects with lucrative salaries in the realm of the Data Scientist role.
